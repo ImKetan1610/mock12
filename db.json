@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "company": "Ellette",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "frontend",
+      "level": "junior",
+      "position": "Backend Developer",
+      "language": "Java",
+      "contract": "full",
+      "postedAt": "2023-02-07",
+      "id": 1
+    },
+    {
+      "company": "Jinny",
+      "postedAt": "2021-09-09",
+      "city": "Ludhiana",
+      "location": "Belgium",
+      "role": "FullStack",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java",
+      "id": 2
+    },
+    {
+      "company": "TCS",
+      "city": "Banglore",
+      "location": "India",
+      "role": "fullstack",
+      "level": "junior",
+      "position": "Full stack developer",
+      "language": "JavaScript",
+      "contract": "full",
+      "postedAt": "2023-02-22",
+      "id": 3
+    }
+  ]
+}
